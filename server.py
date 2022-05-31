@@ -39,4 +39,6 @@ def submit_form():
 	else:
 		return 'something went wrong'
 
-
+...
+if __name__ == '__main__':
+app.run()
