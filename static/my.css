@@ -5180,4 +5180,10 @@ textarea {
     float: left;
     margin-right: 5px;
 }
+
+.center {
+    padding: inherit;
+    margin: auto;
+    text-align: center;
+}
 /*# sourceMappingURL=main.70a66962.map*/
