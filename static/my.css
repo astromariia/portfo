@@ -11,6 +11,12 @@
     -webkit-text-size-adjust: 100%;
 }
 
+iframe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 body {
     margin: 0;
 }
